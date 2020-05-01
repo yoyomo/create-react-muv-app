@@ -1,0 +1,15 @@
+{
+  "name": "create-react-muv-app",
+  "version": "0.1.0",
+  "description": "npm module to create a React + MUV app",
+  "main": "create-react-muv-app.js",
+  "author": "Armando J. Ortiz",
+  "license": "ISC",
+  "bin": {
+    "create-react-muv-app": "./create-react-muv-app.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "util": "^0.12.1"
+  }
+}
